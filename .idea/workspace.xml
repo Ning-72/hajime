@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f3133a4-916e-43be-b0c0-9acbd34fea3d" name="Changes" comment="upload">
+      <change afterPath="$PROJECT_DIR$/2_neural_embedding.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_result_analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/result_analysis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_network_projection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_network_projection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_opinion_estimation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_opinion_estimation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_data_preprocess.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_data_preprocess.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_network_projection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_opinion_estimation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/network_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/network_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/neural_embedding.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/neural_embedding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +67,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -115,6 +121,26 @@
       <workItem from="1730216447694" duration="915000" />
       <workItem from="1730217368492" duration="131000" />
       <workItem from="1730217533456" duration="1431000" />
+      <workItem from="1730222708504" duration="5848000" />
+      <workItem from="1730312162388" duration="19376000" />
+      <workItem from="1730391060503" duration="196000" />
+      <workItem from="1730391261190" duration="126000" />
+      <workItem from="1730391391533" duration="166000" />
+      <workItem from="1730391562552" duration="12103000" />
+      <workItem from="1730467162450" duration="7067000" />
+      <workItem from="1730476689182" duration="20607000" />
+      <workItem from="1730661866451" duration="198000" />
+      <workItem from="1730662069558" duration="401000" />
+      <workItem from="1730662475867" duration="112000" />
+      <workItem from="1730662592996" duration="7894000" />
+      <workItem from="1730671903340" duration="188000" />
+      <workItem from="1730672096277" duration="1464000" />
+      <workItem from="1730674151563" duration="570000" />
+      <workItem from="1730674727691" duration="160000" />
+      <workItem from="1730674893050" duration="5704000" />
+      <workItem from="1730718770307" duration="98000" />
+      <workItem from="1730718873345" duration="1790000" />
+      <workItem from="1730720672502" duration="24890000" />
     </task>
     <task id="LOCAL-00001" summary="delete data">
       <option name="closed" value="true" />
@@ -140,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730212910934</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upload">
+      <option name="closed" value="true" />
+      <created>1730222858225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730222858225</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
