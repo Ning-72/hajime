@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f3133a4-916e-43be-b0c0-9acbd34fea3d" name="Changes" comment="re-upload" />
+    <list default="true" id="3f3133a4-916e-43be-b0c0-9acbd34fea3d" name="Changes" comment="upload">
+      <change afterPath="$PROJECT_DIR$/2_neural_embedding.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_result_analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/result_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_data_preprocess.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_data_preprocess.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_network_projection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_opinion_estimation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/network_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/network_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/neural_embedding.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/neural_embedding.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,20 +57,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ningz/Library/Mobile Documents/com~apple~CloudDocs/Documents/phd/codes/annihilation",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;beta&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ningz/Library/Mobile Documents/com~apple~CloudDocs/Documents/phd/codes/annihilation&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data" />
@@ -103,7 +113,34 @@
       <workItem from="1730128178178" duration="203000" />
       <workItem from="1730128403767" duration="2901000" />
       <workItem from="1730207931387" duration="1537000" />
-      <workItem from="1730209475614" duration="3308000" />
+      <workItem from="1730209475614" duration="4112000" />
+      <workItem from="1730213598531" duration="250000" />
+      <workItem from="1730213855297" duration="1158000" />
+      <workItem from="1730215277876" duration="648000" />
+      <workItem from="1730215934634" duration="507000" />
+      <workItem from="1730216447694" duration="915000" />
+      <workItem from="1730217368492" duration="131000" />
+      <workItem from="1730217533456" duration="1431000" />
+      <workItem from="1730222708504" duration="5848000" />
+      <workItem from="1730312162388" duration="19376000" />
+      <workItem from="1730391060503" duration="196000" />
+      <workItem from="1730391261190" duration="126000" />
+      <workItem from="1730391391533" duration="166000" />
+      <workItem from="1730391562552" duration="12103000" />
+      <workItem from="1730467162450" duration="7067000" />
+      <workItem from="1730476689182" duration="20607000" />
+      <workItem from="1730661866451" duration="198000" />
+      <workItem from="1730662069558" duration="401000" />
+      <workItem from="1730662475867" duration="112000" />
+      <workItem from="1730662592996" duration="7894000" />
+      <workItem from="1730671903340" duration="188000" />
+      <workItem from="1730672096277" duration="1464000" />
+      <workItem from="1730674151563" duration="570000" />
+      <workItem from="1730674727691" duration="160000" />
+      <workItem from="1730674893050" duration="5704000" />
+      <workItem from="1730718770307" duration="98000" />
+      <workItem from="1730718873345" duration="1790000" />
+      <workItem from="1730720672502" duration="24890000" />
     </task>
     <task id="LOCAL-00001" summary="delete data">
       <option name="closed" value="true" />
@@ -121,7 +158,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730209358198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload">
+      <option name="closed" value="true" />
+      <created>1730212910934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730212910934</updated>
+    </task>
+    <task id="LOCAL-00004" summary="upload">
+      <option name="closed" value="true" />
+      <created>1730222858225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730222858225</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +206,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delete data" />
     <MESSAGE value="re-upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="re-upload" />
+    <MESSAGE value="upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
 </project>
